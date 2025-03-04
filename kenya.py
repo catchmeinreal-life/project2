@@ -1,0 +1,1 @@
+print("leo ni kumoto")
