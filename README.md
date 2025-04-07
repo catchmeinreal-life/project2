@@ -1,0 +1,1 @@
+Session-based authentication rellies on storing session data on the serever side. This method is stateful and is commonly used in traditional web application

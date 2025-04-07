@@ -1,1 +1,0 @@
-print("leo ni kumoto")
